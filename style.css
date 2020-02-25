@@ -1,0 +1,16 @@
+.background{
+    background-color: #fff; ;
+}
+.card {
+    border: none;
+    background: #fff;
+    padding: 20px 20px;
+    box-shadow: 5px 5px 25px lightgray;
+    border-radius: 10px;
+}
+
+.card img {
+    width: 180px;
+    height: 200px;
+}
+
